@@ -1,10 +1,10 @@
 # demo
 
-A new Flutter project.
+New!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repo is the demo for the regulator or compass menu bar.
 
 A few resources to get you started if this is your first Flutter project:
 
